@@ -6,4 +6,4 @@ This project is split up into multiple repos
 * [Client-side code](https://github.com/stockholmux/VueJs-Experiments)
 * [Go Game Engine](https://github.com/stockholmux/go-sudoku-engine)
 * [Python Matchmaker](https://github.com/stockholmux/py-sudoku-matchmaker)
-* [PHP Matchmaker]()
+* [PHP Matchmaker](https://github.com/stockholmux/php-sudoku-matchmaker)
