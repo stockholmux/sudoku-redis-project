@@ -5,5 +5,5 @@ This project is split up into multiple repos
 * [Node.js Proxy Server](https://github.com/stockholmux/sudoku-proxy-server)
 * [Client-side code](https://github.com/stockholmux/VueJs-Experiments)
 * [Go Game Engine](https://github.com/stockholmux/go-sudoku-engine)
-* [Python Match Maker]()
-* [PHP Match maker]()
+* [Python Matchmaker](https://github.com/stockholmux/py-sudoku-matchmaker)
+* [PHP Matchmaker]()
